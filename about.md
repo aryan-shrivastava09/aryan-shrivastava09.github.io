@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an engineering student with more than usual interest in content writing, economics and Finance. I like to read and write, most of my articles are results of these miniature researches. Passionate about identifying the institutional voids in the corporate sector of present India.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Experience
+Freelance Content Writer at The Mavericks and The Crescendo - A Business Magazine, MNIT Jaipur.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:aryan.shrivastava9@gmail.com)
