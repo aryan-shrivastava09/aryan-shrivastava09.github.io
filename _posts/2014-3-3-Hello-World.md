@@ -3,6 +3,7 @@ layout: post
 title: MST- Military Sexual Trauma
 ---
 **What is MST?**
+
 MST is a comparatively recently documented form of Posttraumatic Stress Disorder (PTSD). As defined by the United States Department of Veterans Affairs, MST- Military Sexual Trauma are experiences of sexual assault, or repeated threatening sexual harassment, that occurred while a person was in the United States Armed Forces.
 Occurrences.
 1.	A 2012 Pentagon survey found that over 26000 men and women had been subjected to sexually stressing conditions in that year, but only a little over 3000 were reported.
@@ -11,6 +12,7 @@ Occurrences.
 4.	In 2016, a widespread survey of 43000 Canadian armed forces personnel estimated that nearly 27% of female personnel reported at least one incident of sexual assault since they joined the military, and 5% of female regular armed forces personnel reported the same in the previous 12 months (equivalent to approximately 960 women per year).
 
 **Victims.**
+
 According to American, British, Canadian and French research, though cases of men being sexually abused have been reported in the military, the number of cases among women are substantially larger.
 Child cadets or teenagers who offer service to the military are not untouched by this crime. About 1 in 10 complaints of assault in Canadian Armed forces reported teenage cadets as victims.
 
@@ -19,6 +21,7 @@ Child cadets or teenagers who offer service to the military are not untouched by
 2.	Statistics suggest that personnel who could get a definite action out of their complaints of sexual assaults are less likely to be victims of MST as compared to the personnel who got no or entirely reversed outcomes of complaints.
 
 **The case at hand.**
+
 Thae Ohu, a first-generation immigrant to America, was born in a Burmese Refugee camp in Thailand. Due to the hard life they were facing there, the family moved to the United States in hopes of revival. 
 Five years ago, Thae was sexually assaulted by a fellow marine. As is usual, the command mishandled the case and it became a tick sucking on Thae’s mental health. Due to continued absence of support and care crucial to the treatment of PTSD, her mental health continued to deteriorate. In April 2020, following a domestic incident, Thae was arrested and was eventually sent to the brig, a military prison where she remains today.
 Several calls have been made by the family, including Pan Phyu, Thae’s sister and a navy sailor herself, Ahr Yu, her father, demanding mental health care for Thae even if it is provided alongside the legal proceedings that the system thinks Thae should face.
