@@ -1,6 +1,7 @@
 ---
+title: Subscribe
+permalink: /subscribe/
 layout: default
-title: Contact
 ---
 Subscribe
 
