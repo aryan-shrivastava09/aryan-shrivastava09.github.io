@@ -11,4 +11,4 @@ Freelance Content Writer at The Mavericks and The Crescendo - A Business Magazin
 
 ### Contact me
 
-[email@domain.com](mailto:aryan.shrivastava9@gmail.com)
+[aryan.shrivastava9@gmail.com](mailto:aryan.shrivastava9@gmail.com)
